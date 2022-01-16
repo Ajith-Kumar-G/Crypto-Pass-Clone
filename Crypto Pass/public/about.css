@@ -1,0 +1,44 @@
+body{
+  overflow-x: hidden;
+  overflow-y: auto!important;
+}
+
+.about-section {
+  text-align-last: left;
+}
+
+.title {
+  color: deepskyblue;
+}
+
+#tool_bar{
+  word-spacing: 20px;
+  background-color:black;
+  padding: 8px;
+}
+.text-block {
+  text-align:center;
+  position: relative;
+  top:25%;
+  padding:10px;
+  flex-wrap: nowrap;
+  display: block;
+  left: 8%;
+}
+.box{
+  background-color:grey;
+  width:210px;
+  padding:10px;
+  float: left;
+  border: 2px solid black;
+  margin: 4px;
+
+}
+.block{
+        text-align:center;
+        position: relative;
+        top:40%;
+        right: 10px;
+        padding:10px;
+
+      }

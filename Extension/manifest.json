@@ -1,0 +1,23 @@
+{
+    "name": "Crypto Pass",
+    "description": "Sign in Seamlessly with us!!",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "icons": {
+        "16": "./cryptopass.png",
+        "32": "./cryptopass.png",
+        "48": "./cryptopass.png",
+        "128": "./cryptopass.png"
+    },
+    "background": {
+        "scripts": [
+            "./background.js"
+        ]
+    },
+    "options_page": "",
+    "browser_action": {
+        "default_popup": "./popup.html"
+    },
+    "permissions": [],
+    "content_security_policy": "script-src 'self' https://cdn.firebase.com https://apis.google.com https://www.gstatic.com; object-src 'self'"
+}

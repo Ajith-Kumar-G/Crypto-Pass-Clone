@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^9.4.1",
+    "happi-dev-sdk": "^1.0.26"
+  }
+}

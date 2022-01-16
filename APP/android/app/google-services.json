@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "670958641015",
+    "firebase_url": "https://cryptopass-5ca3b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cryptopass-5ca3b",
+    "storage_bucket": "cryptopass-5ca3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670958641015:android:958bbfb7f30b9144780b72",
+        "android_client_info": {
+          "package_name": "com.crypto_pass.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670958641015-7a1gpaml1cjhlmgetnf311tbklfacc0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwKvulp0TIdTSPvok5QZGWyG604kjy9T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670958641015-7a1gpaml1cjhlmgetnf311tbklfacc0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670958641015-gp08li0nfuck58rij1ajmb40o9437e49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.cryptopass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

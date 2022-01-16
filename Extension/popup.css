@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    height: 585px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(180deg, #530070, #090070);
+    color: white;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.container{
+    padding:4%;
+}
+.link{
+    text-decoration: none;
+    background-color: antiquewhite;
+
+}
+li{
+    padding:3px;
+}
+img{
+    position: relative;
+    width: -webkit-fill-available;
+    border: 11px double #d458b4;
+}
